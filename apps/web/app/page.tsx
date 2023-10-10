@@ -37,7 +37,7 @@ const LINKS = [
     description: "Learn more about monorepos with our handbook.",
   },
   {
-    title: "Templatesss",
+    title: "Templ",
     href: "https://turbo.build/repo/docs/getting-started/from-example",
     description: "Choose from over 15 examples and deploy with a single click.",
   },
