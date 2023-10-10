@@ -32,7 +32,7 @@ const LINKS = [
     description: "Find in-depth information about Turborepo features and API.",
   },
   {
-    title: "Learn",
+    title: "Learnn",
     href: "https://turbo.build/repo/docs/handbook",
     description: "Learn more about monorepos with our handbook.",
   },
