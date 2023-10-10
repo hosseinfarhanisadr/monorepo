@@ -27,7 +27,7 @@ function Gradient({
 
 const LINKS = [
   {
-    title: "Docs",
+    title: "Docsssssssssssssssssssss",
     href: "https://turbo.build/repo/docs",
     description: "Find in-depth information about Turborepo features and API.",
   },
